@@ -11,9 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="IEOR 4101 -- waive exam preparation" />
         <p className="description">
-          hiiiiiiii!
+          Author: Alex Lan
+        </p>
+        
+        <p>
+          IEOR 4101 probability models is a required course, but you have an option to take a waiver exam by August and take the half course (1.5 points) instead
         </p>
       </main>
 
