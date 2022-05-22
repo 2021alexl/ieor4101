@@ -19,6 +19,14 @@ export default function Home() {
         <p>
           IEOR 4101 probability models is a required course, but you have an option to take a waiver exam by August and take the half course (1.5 points) instead
         </p>
+        
+        <p>
+        Recommended textbook: Introduction to Probability & Statistics for Engineers and Scientist (5th)
+        Topics:
+        Probability: Discrete & Continuous Distribution, Independence & Conditioning, Bayes Rule, Expectation & Variance, Law of Large Number, Central Limit Theorem
+        Simulation: Basic Methods as Inverse Transform, Acceptence-Rejection, etc.
+        Statistics: Points and Interval Estimation, Hypothesis Testing, Regression
+        </p>
       </main>
 
       <Footer />
