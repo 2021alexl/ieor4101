@@ -22,10 +22,31 @@ export default function Home() {
         
         <p>
         Recommended textbook: Introduction to Probability & Statistics for Engineers and Scientist (5th)
+        </p>
+        
+        <p>
         Topics:
+        </p>
+        
+        <p>
         Probability: Discrete & Continuous Distribution, Independence & Conditioning, Bayes Rule, Expectation & Variance, Law of Large Number, Central Limit Theorem
+        </p>
+        
+        <p>
         Simulation: Basic Methods as Inverse Transform, Acceptence-Rejection, etc.
+        </p>
+        
+        <p>
         Statistics: Points and Interval Estimation, Hypothesis Testing, Regression
+        </p>
+        
+        <p>
+        </p>
+        
+        <p>
+        </p>
+        
+        <p>
         </p>
       </main>
 
